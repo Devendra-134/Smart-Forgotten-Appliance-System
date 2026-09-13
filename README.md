@@ -145,7 +145,7 @@ alt="Community Service Photo 3" width="30%">
 Linkedin Post
 
 <div align="center">
-src=https://lnkd.in/p/gWRkVQJp
+[View Community Services On Linkedin](https://lnkd.in/p/gWRkVQJp)
 </div>
 ---
 
