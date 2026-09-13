@@ -116,7 +116,7 @@ During my internship period, I participated in multiple community-oriented activ
   
    
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
-  Chikkadapur Tq:Ilkal D:Bagalkot
+  Location: Chikkadapur Tq:Ilkal D:Bagalkot
 
 - **Helping Elder Citizens** – Assisted eight elderly individuals with simple daily tasks and provided support where needed. 
   
