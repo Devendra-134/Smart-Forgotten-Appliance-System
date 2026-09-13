@@ -120,8 +120,8 @@ During my internship period, I participated in multiple community-oriented activ
   Chikkadapur Tq:Ilkal D:Bagalkot
 
 - **Helping Elder Citizens** – Assisted eight elderly individuals with simple daily tasks and provided support where needed. 
-  Ilkal, Bengaluru and pandharapur
-Participating in tree plantation and helping senior citizens was a meaningful and rewarding experience. Planting 8 Sitaphal saplings taught me the importance of protecting nature and contributing to a greener future. Spending time with and helping senior citizens was a heartwarming and humbling experience that taught me the values of empathy, kindness, patience, and respect for elders. These activities helped me understand the importance of social responsibility and giving back to society.
+  
+Participating in tree plantation and helping senior citizens was a meaningful and rewarding experience. Planting 8 Sitaphal saplings taught me the importance of protecting nature and contributing to a greener future. Spending time with and helping senior citizens was a heartwarming and humbling experience that taught me the values of empathy, kindness, patience, and respect for elders. These activities helped me understand the importance of social responsibility and giving back to society. Location: Ilkal, Bengaluru and Pandharapur
 
 ### **Impact / Contribution**
 
