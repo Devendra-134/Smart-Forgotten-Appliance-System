@@ -30,7 +30,7 @@
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Course Opted:</strong> Embedded Systems and IoT </p>
-    <p><strong>Instructor Name:</strong> Prof. Radhakumari Challa </p>
+    <p><strong>Instructor Name:</strong> Mehak Majeed </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Duration:</strong> 6 Months </p>
@@ -115,12 +115,12 @@ During my internship period, I participated in multiple community-oriented activ
 
 ### **Activities Involved**
   
-   Chikkadapur Tq:Ilakl D:Bagalkot
+   
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
+  Chikkadapur Tq:Ilkal D:Bagalkot
 
-  Ilkal, Bengaluru and pandharapur
 - **Helping Elder Citizens** – Assisted eight elderly individuals with simple daily tasks and provided support where needed. 
-
+  Ilkal, Bengaluru and pandharapur
 Participating in tree plantation and helping senior citizens was a meaningful and rewarding experience. Planting 8 Sitaphal saplings taught me the importance of protecting nature and contributing to a greener future. Spending time with and helping senior citizens was a heartwarming and humbling experience that taught me the values of empathy, kindness, patience, and respect for elders. These activities helped me understand the importance of social responsibility and giving back to society.
 
 ### **Impact / Contribution**
