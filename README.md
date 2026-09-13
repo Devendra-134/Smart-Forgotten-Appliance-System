@@ -76,8 +76,7 @@ This internship provided me with a valuable learning experience by combining tec
 <!-- Project 1 -->
 <h3 id="project1">Project 1: Smart Forgotten Appliance System </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  The Smart Forgotten Appliance System is an IoT-based system designed to prevent energy wastage by automatically detecting when a bulb is left ON without human presence. Using an ESP32, PIR sensor, relay, buzzer, and OLED display, the system monitors user activity and provides a warning before automatically switching OFF the bulb. A WebSocket-based web dashboard enables real-time monitoring and remote control, while energy consumption and appliance ON-time are also tracked.
 </p>
 <p>
   <a href="https://github.com/sure-trust/DEVENDRA-g17-es-and-iot/blob/ee4b8215919cbd5d223ebea885ebbbc63d8b3e00/Final%20capstone%20project/Internship%20Project%20Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
@@ -162,7 +161,8 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+- [Mehak Majeed](https://www.linkedin.com/in/mehak-majeed/) , Junior Engineer - ATFAAL Innovations Pvt. Ltd and Embedded System and IoT Trainer - SURE ProEd
+  
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
