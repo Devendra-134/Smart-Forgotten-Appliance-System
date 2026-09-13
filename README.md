@@ -142,8 +142,7 @@ Participating in tree plantation and helping senior citizens was a meaningful an
 <img src="https://github.com/user-attachments/assets/9a33ab37-e887-44cf-8e45-0f0f8d4b6a29"
 alt="Community Service Photo 3" width="30%">
 </div>
-Linkedin Post
-- [View Community Services On Linkedin](https://lnkd.in/p/gWRkVQJp).
+
 <div align="center">
 [View Community Services On Linkedin](https://lnkd.in/p/gWRkVQJp)
 </div>
