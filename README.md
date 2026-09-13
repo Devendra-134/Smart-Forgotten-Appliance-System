@@ -144,7 +144,7 @@ alt="Community Service Photo 3" width="30%">
 </div>
 
 <div align="center">
-[View Community Services On Linkedin](https://lnkd.in/p/gWRkVQJp)
+[View Community Service Activities On Linkedin](https://lnkd.in/p/gWRkVQJp)
 </div>
 ---
 
